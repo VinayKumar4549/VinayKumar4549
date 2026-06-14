@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋, I'm Vinay Kumar Reddy Chitiki
 
-<!--
-**VinayKumar4549/VinayKumar4549** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI/ML Engineer | Data Analytics Enthusiast | Python Developer
 
-Here are some ideas to get you started:
+I am a Computer Science graduate specializing in Artificial Intelligence with experience in Machine Learning, Data Analytics, Generative AI, and Python Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Python
+- SQL
+- Machine Learning
+- Scikit-Learn
+- PyTorch
+- Power BI
+- FastAPI
+- LangChain
+- RAG
+- AWS
+
+## Featured Projects
+
+### Medical AI Chatbot
+RAG-powered healthcare assistant using LangChain and Pinecone.
+
+### Vendor Invoice Intelligence Portal
+Classification and Regression ML system with MLflow.
+
+### Supply Chain Analytics Dashboard
+Power BI and SQL-based business intelligence solution.
+
+## Contact
+
+📧 vinay.kumar.reddy4549@gmail.com
+
+🔗 LinkedIn: linkedin.com/in/vinayinsights
