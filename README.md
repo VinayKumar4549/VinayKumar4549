@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-- 🎓 B.Tech in Computer Science & Artificial Intelligence (2025)
+- 🎓 B.Tech in Computer Science & Artificial Intelligence 
 - 🤖 Interested in AI/ML, Generative AI, Data Analytics, and Python Development
 - 🌱 Currently learning Advanced Machine Learning, RAG Systems, LLM Applications, and MLOps
 - 🔭 Building end-to-end AI and Data Analytics projects
